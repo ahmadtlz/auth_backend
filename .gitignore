@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Runtime data
+*.pid
+*.seed
+pidfile.log
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build output
+build/
+
+# Logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Temporary files
+.tmp/
+
+# Environment variables
+.env
+
+# Testing tools
+jest/cache
+__tests__/
